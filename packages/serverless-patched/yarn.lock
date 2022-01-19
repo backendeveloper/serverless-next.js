@@ -447,7 +447,7 @@ __metadata:
   resolution: "@sls-next/serverless-patched@workspace:."
   dependencies:
     "@serverless/cli": ^1.5.3
-    "@types/node": ^16.11.15
+    "@types/node": ^17.0.10
     find-up: ^6.2.0
     patch-package: ^6.4.7
     postinstall-postinstall: "simply-vat/postinstall-postinstall#59b0064272e72ab62eab205d6c63e7e60495b097"
@@ -559,10 +559,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^16.11.15":
-  version: 16.11.15
-  resolution: "@types/node@npm:16.11.15"
-  checksum: 30969f1c43d85ee645f1ff28640d25b8b7748bbd3cb31aeebc2799fa9f7aa580782430309496c82983a92009afe52e46b50b9b996cea697f62e93f27eb8f5eb5
+"@types/node@npm:^17.0.10":
+  version: 17.0.10
+  resolution: "@types/node@npm:17.0.10"
+  checksum: 979e83d642a2b4f18fa1a4233f884822c05abc7acd0836024aa964187f8446432b21f7913e72fe2b3927c4a811c27a0b6cd60ac7c4ac6a6762cfbab70782aa6a
   languageName: node
   linkType: hard
 
